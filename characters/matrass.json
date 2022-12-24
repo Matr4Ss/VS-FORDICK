@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ass idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ass left"
+		},
+		{
+			"offsets": [
+				-31,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ass down"
+		},
+		{
+			"offsets": [
+				-85,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ass right"
+		},
+		{
+			"offsets": [
+				-70,
+				65
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ass up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/matrass",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "matrass",
+	"flip_x": true,
+	"healthbar_colors": [
+		60,
+		160,
+		61
+	],
+	"camera_position": [
+		50,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

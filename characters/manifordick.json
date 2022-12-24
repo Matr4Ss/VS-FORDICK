@@ -1,0 +1,97 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "dick idle"
+		},
+		{
+			"offsets": [
+				209,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "dick left"
+		},
+		{
+			"offsets": [
+				25,
+				-97
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "dick down"
+		},
+		{
+			"offsets": [
+				-117,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "dick right"
+		},
+		{
+			"offsets": [
+				7,
+				68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "dick up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [
+				12,
+				13,
+				14,
+				15,
+				15,
+				16,
+				17
+			],
+			"fps": 24,
+			"anim": "idle-loop",
+			"loop": true,
+			"name": "dick idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/manifordick",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "manifestdick",
+	"flip_x": false,
+	"healthbar_colors": [
+		77,
+		77,
+		154
+	],
+	"camera_position": [
+		-40,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

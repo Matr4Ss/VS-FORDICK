@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "humst idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "humst left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "humst down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				15
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "humst up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-10
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "humst right0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HUMST_nerd",
+	"position": [
+		-270,
+		250
+	],
+	"healthicon": "humst",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		102,
+		51
+	],
+	"camera_position": [
+		40,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

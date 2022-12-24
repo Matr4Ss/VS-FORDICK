@@ -1,0 +1,4 @@
+Plays object animation (including lua objects!)
+
+Value 1: animation
+Value 2: object

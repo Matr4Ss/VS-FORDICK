@@ -1,0 +1,45 @@
+{
+"song": {
+"player1": "matrass",
+"notes": [
+{
+"sectionNotes": [],
+"lengthInSteps": 16,
+"typeOfSection": 0,
+"SongBPM": 196,
+"altAnim": false,
+"mustHitSection": true
+},
+{
+"sectionNotes": [],
+"lengthInSteps": 16,
+"typeOfSection": 0,
+"SongBPM": 196,
+"altAnim": false,
+"mustHitSection": true
+},
+{
+"sectionNotes": [],
+"lengthInSteps": 16,
+"typeOfSection": 0,
+"SongBPM": 196,
+"altAnim": false,
+"mustHitSection": true
+},
+{
+"sectionNotes": [],
+"lengthInSteps": 16,
+"typeOfSection": 0,
+"SongBPM": 196,
+"altAnim": false,
+"mustHitSection": true
+},
+{
+"sectionNotes": [],
+"lengthInSteps": 16,
+"typeOfSection": 0,
+"SongBPM": 196,
+"altAnim": false,
+"mustHitSection": false
+},
+{

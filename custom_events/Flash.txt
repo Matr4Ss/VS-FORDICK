@@ -1,0 +1,4 @@
+THINK FAST CHUCKLENUTS!!!
+
+Value 1: hex color (default: white)
+Value 2: duration (default: 2)

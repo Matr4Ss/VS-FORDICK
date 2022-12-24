@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				350
+			],
+			"anim": "singUP",
+			"fps": 32,
+			"name": "dick up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "idle",
+			"loop": false,
+			"name": "dick0"
+		},
+		{
+			"offsets": [
+				80,
+				-145
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "dick down"
+		},
+		{
+			"offsets": [
+				-60,
+				5
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "dick right"
+		},
+		{
+			"offsets": [
+				530,
+				0
+			],
+			"indices": [],
+			"fps": 28,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "dick left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dick",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dick_lowRes",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		85,
+		153
+	],
+	"camera_position": [
+		40,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
