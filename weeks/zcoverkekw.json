@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"Where is my mom",
+			"dick",
+			[
+				106,
+				113,
+				235
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "MAMONTONOK",
+	"weekName": "MAMONTONOK",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
